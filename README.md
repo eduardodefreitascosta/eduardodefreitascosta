@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :brazil: :netherlands:
 
 About me:
-- I’m a veterinarian :pig: epidemiologist :chart_with_upwards_trend:
+- I’m a veterinarian 🐷 🐮 🐔 epidemiologist 📈 📉 📊 
 - 🔭 I’m currently working on Wageningen Bioveterinary Institute
 - 🌱 I’m currently learning epidemiology (always)
 - 📫 How to reach me: eduardo.costa@wur.nl
