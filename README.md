@@ -1,5 +1,14 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :brazil: :netherlands:
 
+func getFlag(country:String) -> String { 
+        let base : UInt32 = 127397
+        var s = ""
+        for v in country.unicodeScalars {
+            s.unicodeScalars.append(UnicodeScalar(base + v.value)!)
+        }
+        return String(s)
+    }
+
 About me:
 - I’m a veterinarian 🐷 🐮 🐔 epidemiologist 📈 📉 📊 
 - 🔭 I’m currently working on Wageningen Bioveterinary Institute
