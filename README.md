@@ -12,7 +12,7 @@
 ```html
 About me:
 - I’m a veterinarian 🐷 🐮 🐔 epidemiologist 📈 📉 📊 
-- 🔭 I’m currently working on Wageningen Bioveterinary Institute
+- 🔭 I’m currently working at Wageningen Bioveterinary Institute
 - 🌱 I’m currently learning epidemiology (always)
 - 📫 How to reach me: eduardo.costa@wur.nl
 ```
